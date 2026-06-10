@@ -1,6 +1,6 @@
 #include "main.h"
 
-
+/// Main function  to demonstrate a simple C++ project using the language standard version.
 int main()
 {
     printf("Hello, World!\n");
